@@ -1,0 +1,41 @@
+.sidenav {
+    padding: 0;
+    box-sizing: border-box;
+    border-right: 1.25px solid rgba(0,0,0,.1);
+    background-color: #ffffff;
+}
+
+.sidenav * {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.sidenav ul {
+    margin-top: .5rem;
+}
+
+.sidenav ul a {
+    padding: 0rem 1.5rem 0rem 1.5rem;
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 50px;
+    font-size: 14px;
+    color: rgba(0,0,0,.54);
+    box-sizing: border-box;
+    transition: .4s;
+}
+
+.sidenav ul a:hover {
+    background-color: rgb(0, 0, 0, .1);
+}
+
+.sidenav ul a i {
+    margin-right: 16px;
+}
+
+.sidenav-icon {
+    font-size: 16px;
+}
