@@ -1,0 +1,57 @@
+.add-assessment {
+    padding: .75rem;
+    background-color: #1a73e8;
+    border-radius: 4px;
+    border: none;
+    color: #ffffff;
+}
+
+.add-assessment i {
+    margin-right: 16px;
+}
+
+.list-assessment {
+    padding: 0;
+    margin: 0;
+}
+
+.list-assessment * {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.list-assessment li {
+    padding: 1rem;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.list-assessment li:not(:first-child):not(:last-child) {
+    border-top: 1.5px solid rgb(0, 0, 0, .1);
+    border-left: 1.5px solid rgb(0, 0, 0, .1);
+    border-right: 1.5px solid rgb(0, 0, 0, .1);
+}
+
+.list-assessment li:first-child {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-top: 1.5px solid rgb(0, 0, 0, .1);
+    border-left: 1.5px solid rgb(0, 0, 0, .1);
+    border-right: 1.5px solid rgb(0, 0, 0, .1);
+}
+
+.list-assessment li:last-child {
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border: 1.5px solid rgb(0, 0, 0, .1);
+}
+
+.assessment-term {
+    margin-top: 3rem;
+}
+
+.assessment-term h2 {
+    font-size: 1.25em;
+}

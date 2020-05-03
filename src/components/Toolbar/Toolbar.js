@@ -11,8 +11,7 @@ class Toolbar extends Component {
         </div>
         <div className="toolbar-right">
           <div className="greeting">
-            Hi, Alexander!
-            <Emoji symbol="👋" />
+            Hi, {this.props.user.firstName}! <Emoji symbol="👋" />
           </div>
         </div>
       </div>

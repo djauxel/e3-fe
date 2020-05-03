@@ -3,13 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Dashboard from './components/Layout/Dashboard';
+import Login from './components/Pages/Login';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Dashboard>
-      
-    </Dashboard>
+    <Dashboard />
+    {/* <Login /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
