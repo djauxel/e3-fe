@@ -1,0 +1,12 @@
+.facultyForm h1 {
+    font-size: 2em;
+    margin-bottom: 3rem;
+}
+
+.assessment {
+    margin-top: 3rem;
+}
+
+.assessment-item:not(:first-child) {
+    margin-top: 2rem;
+}

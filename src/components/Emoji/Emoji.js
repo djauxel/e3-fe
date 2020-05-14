@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
+=======
+import React from 'react';
+>>>>>>> 83ceb0c197fa26c688e66b0756241bc77f39736b
 
 const Emoji = props => (
     <span

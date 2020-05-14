@@ -1,5 +1,9 @@
 .content {
+<<<<<<< HEAD
     padding: 1rem;
+=======
+    padding: 3rem;
+>>>>>>> 83ceb0c197fa26c688e66b0756241bc77f39736b
     box-sizing: border-box;
     background-color: #fafafa;
 }

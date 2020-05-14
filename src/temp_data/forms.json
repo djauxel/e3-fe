@@ -1,0 +1,178 @@
+{
+    "id": "9mx7a6XhIV",
+    "forms": [
+        {
+            "semester": "Spring 2020",
+            "courses": [
+                {
+                    "courseName": "BIOL 104",
+                    "instructorEmail": "lmrobert@csusm.edu",
+                    "assessment": [
+                        {
+                            "type": "attendance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "participation",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "homework",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "quality",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "performance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "grade",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        }
+                    ]
+                },
+                {
+                    "courseName": "MATH 270",
+                    "instructorEmail": "akundgen@csusm.edu",
+                    "assessment": [
+                        {
+                            "type": "attendance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "participation",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "homework",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "quality",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "performance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "grade",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        }
+                    ]
+                },
+                {
+                    "courseName": "PSCI 100",
+                    "instructorEmail": "jtsmith@csusm.edu",
+                    "assessment": [
+                        {
+                            "type": "attendance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "participation",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "homework",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "quality",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "performance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "grade",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        }
+                    ]
+                },
+                {
+                    "courseName": "SE370",
+                    "instructorEmail": "sfan@csusm.edu",
+                    "assessment": [
+                        {
+                            "type": "attendance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "participation",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "homework",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "quality",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "performance",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        },
+                        {
+                            "type": "grade",
+                            "period1": 4,
+                            "period2": 3,
+                            "period3": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
